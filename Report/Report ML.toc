@@ -1,0 +1,24 @@
+\contentsline {chapter}{\numberline {1}Introduzione}{1}%
+\contentsline {chapter}{\numberline {2}Presentazione del dataset}{2}%
+\contentsline {section}{\numberline {2.1}Descrizione delle variabili}{2}%
+\contentsline {section}{\numberline {2.2}Pre-processing}{3}%
+\contentsline {chapter}{\numberline {3}Modelli di classificazione e misure di performance}{4}%
+\contentsline {section}{\numberline {3.1}Heuristic model}{4}%
+\contentsline {paragraph}{Decision tree}{4}%
+\contentsline {paragraph}{J48}{4}%
+\contentsline {paragraph}{Random Forest}{4}%
+\contentsline {section}{\numberline {3.2}Regression model}{4}%
+\contentsline {paragraph}{Logistic regression}{4}%
+\contentsline {section}{\numberline {3.3}Probabilistic model}{4}%
+\contentsline {paragraph}{Naive Bayes}{4}%
+\contentsline {section}{\numberline {3.4}Misure di performance}{4}%
+\contentsline {subsection}{\numberline {3.4.1}Accuracy}{5}%
+\contentsline {subsection}{\numberline {3.4.2}Precision}{5}%
+\contentsline {subsection}{\numberline {3.4.3}Recall}{5}%
+\contentsline {subsection}{\numberline {3.4.4}$F_1$-measure}{5}%
+\contentsline {subsection}{\numberline {3.4.5}Area Under Curve (AUC)}{5}%
+\contentsline {chapter}{\numberline {4}Analisi e risultati}{6}%
+\contentsline {section}{\numberline {4.1}Classificazione con metodo Holdout}{6}%
+\contentsline {section}{\numberline {4.2}Classificazione con metodo Iterated-Holdout}{6}%
+\contentsline {section}{\numberline {4.3}Feature Selection}{7}%
+\contentsline {chapter}{\numberline {5}Conclusioni}{9}%
